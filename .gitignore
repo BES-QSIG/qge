@@ -1,0 +1,10 @@
+# Hidden mac files
+.DS_Store
+
+# gh-pages
+_site/
+.sass-cache
+
+# docs branch
+_docs/
+_docs_repo/

@@ -1,2 +1,2 @@
-# qge
-Site repo for Quantitative field guides for ecologists
+# Guides
+Computational resources, guides and tutorials for ecologists

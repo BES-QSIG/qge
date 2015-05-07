@@ -8,8 +8,8 @@ description: >
 
 # URLS
 baseurl: "/qge"
-docurl: "https://github.com/BES-QSIG/docs/blob/master/"
-imgurl: "https://raw.githubusercontent.com/BES-QSIG/docs/master/img"
+docurl: "https://github.com/BES-QSIG/qdocs/blob/master/"
+imgurl: "https://raw.githubusercontent.com/BES-QSIG/qdocs/master/img"
 url: "http://bes-qsig.github.io"
 
 # Permalinks
